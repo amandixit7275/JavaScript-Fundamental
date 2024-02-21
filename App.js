@@ -84,3 +84,5 @@ console.log(letters);
 
 letters.splice(2, 1, "q");
 console.log(letters);
+
+//reduce method in details
